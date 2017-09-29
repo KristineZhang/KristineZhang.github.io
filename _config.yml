@@ -1,2 +1,4 @@
   name: Kristine's website
   markdown: kramdown
+
+theme: jekyll-theme-tactile
