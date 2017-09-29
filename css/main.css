@@ -28,7 +28,7 @@ h1 {
 }
 
 h1:hover {
-    text-decoration: none;
+/*     text-decoration: none; */
     color: #FF3B3F
 }
 p {
