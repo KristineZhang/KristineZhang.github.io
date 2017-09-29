@@ -28,8 +28,7 @@ h1 {
 }
 
 h1:hover {
-/*     text-decoration: none; */
-    color: #FF3B3F
+    text-decoration: none;
 }
 p {
     font-size: 1.5em;
