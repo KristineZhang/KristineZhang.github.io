@@ -532,6 +532,17 @@
       </div>
     </div>
 
+    <!--testing extra form -->
+    <form name="gform" id="gform" enctype="text/plain" action="https://docs.google.com/forms/d/13tjtio4B8gzTXkFNOQTRa8jzLGSGaaVNUG7szzjZhvY" target="hidden_iframe" onsubmit="submitted=true;">
+      First name:<br>
+      <input type="text" name="entry.755102847" id="entry.755102847"><br>
+      Last name:<br>
+      <input type="text" name="entry.524286014" id="entry.524286014">
+      <input type="submit" value="Submit">
+    </form>
+
+    <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {}"></iframe>
+
     <!-- Bootstrap core JavaScript -->
     <script src="vendor/jquery/jquery.min.js"></script>
     <script src="vendor/popper/popper.min.js"></script>
